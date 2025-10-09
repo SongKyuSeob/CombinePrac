@@ -10,22 +10,9 @@
 		956BBE052E977B26006D35DA /* CombinePrac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombinePrac.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		956BBE172E977B27006D35DA /* Exceptions for "CombinePrac" folder in "CombinePrac" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 956BBE042E977B26006D35DA /* CombinePrac */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		956BBE072E977B26006D35DA /* CombinePrac */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				956BBE172E977B27006D35DA /* Exceptions for "CombinePrac" folder in "CombinePrac" target */,
-			);
 			path = CombinePrac;
 			sourceTree = "<group>";
 		};
